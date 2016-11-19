@@ -14,7 +14,7 @@
 <script type="text/javascript">
 
 	$(document).ready(function () {
-        alert("Manej con cuidado el sistema no seas pascual.... ");
+        alert("Maneje con cuidado el sistema no seas chupete.... ");
 tersubmenu = {
 
         transport: {
