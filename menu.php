@@ -56,6 +56,8 @@ tersubmenu = {
         datpn = this.dataItem(e.node);
         datpn.loaded(true);
         }
+
+        // santos no q aras, ya estas pococo a pco loco
     $("#treeview").kendoTreeView({
         dataSource: menu,
         dataTextField: ["nombmod", "nombsmod"],
