@@ -14,7 +14,6 @@
 <script type="text/javascript">
 
 	$(document).ready(function () {
-        alert("Maneje con cuidado el sistema no seas chupete.... ");
 tersubmenu = {
 
         transport: {
@@ -53,13 +52,13 @@ tersubmenu = {
             }
         }
     });
-		// comentario no valido.....
+		
     function onExpand(e) {
         datpn = this.dataItem(e.node);
         datpn.loaded(true);
         }
 
-        // santos no q aras, ya estas pococo a pco loco
+        
     $("#treeview").kendoTreeView({
         dataSource: menu,
         dataTextField: ["nombmod", "nombsmod"],
@@ -67,7 +66,6 @@ tersubmenu = {
         expand: onExpand
     }).data("kendoTreeView");
 
-    // estas cosas no se puden commitear
 });
 </script>
 <table>
