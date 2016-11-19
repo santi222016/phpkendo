@@ -12,7 +12,9 @@
 </head>
 <body>
 <script type="text/javascript">
+
 	$(document).ready(function () {
+        alert("Manej con cuidado el sistema no seas pascual.... ");
 tersubmenu = {
 
         transport: {
